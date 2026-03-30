@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ダストラッシュ",
+  "base_artist": "Twinfield",
+  "createdAt": "2026-03-30T07:35:15.261331Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダストラッシュ feat. 初音ミク",
+      "artist": "Twinfield",
+      "has_synced": true,
+      "path": "select/01_ダストラッシュ_feat._初音ミク_Twinfield.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダストラッシュ (feat. 初音ミク)",
+      "artist": "Twinfield",
+      "has_synced": false,
+      "path": "select/pl_01_ダストラッシュ_(feat._初音ミク)_Twinfield.txt"
+    }
+  ]
+}
